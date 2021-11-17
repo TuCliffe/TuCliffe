@@ -6,6 +6,8 @@
     Hole = 'o'
     Wall = '*'
     
+    Adjust the test_board at the bottom to create a new board!!
+    
 """
 
 class Sokoban:    
