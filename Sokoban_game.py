@@ -1,3 +1,13 @@
+"""
+    Description: A game of Sokoban, the player pushes the crates
+                    into the holes to win.                
+    Player = 'P'
+    Crate = '#'
+    Hole = 'o'
+    Wall = '*'
+    
+"""
+
 class Sokoban:    
     def __init__(self, board):
         self.__max_row = len(board)
