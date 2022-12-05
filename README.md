@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TuCliffe
 - 👀 I’m interested in Ai 
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on creative projects involving VR.
+- 🌱 Python/C#/PHP.
 - 📫 How to reach me: https://www.linkedin.com/in/tutanekai-cliffe-a94931174
 
 <!---
